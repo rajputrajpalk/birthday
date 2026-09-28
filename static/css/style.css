@@ -1,11 +1,14 @@
 :root {
-    --bg-color: #ffe6e6;
-    --text-primary: #3b1c1c;
-    --accent-pink: #e295a6; /* love */
-    --accent-green: #8ba888; /* nature */
-    --accent-warm: #dda77b; /* friendship/warmth */
-    --glass-bg: rgba(255, 255, 255, 0.7);
-    --glass-border: rgba(139, 168, 136, 0.3);
+    --bg-color: #2b0a3d;              /* Deep birthday background */
+    --text-primary: #fff5f8;          /* Soft white text */
+
+    --accent-pink: #ff4f81;            /* Birthday pink */
+    --accent-purple: #9b5de5;          /* Celebration purple */
+    --accent-red: #ff3b5c;             /* Love & celebration */
+    --accent-gold: #ffd166;            /* Birthday/golden glow */
+
+    --glass-bg: rgba(255, 255, 255, 0.12);
+    --glass-border: rgba(255, 209, 102, 0.4);
 }
 
 * {
